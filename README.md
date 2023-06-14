@@ -29,3 +29,6 @@ After setting number of layers, neurons for each layer, and activation functions
 This model was then optimized into two different models, each with their own configuration of layers, neurons, and epochs. These are the results of all three models:
 
 ![screenshot6](https://github.com/nahinhayat/Module13Challenge/blob/main/module13screenshots/Screen%20Shot%202023-06-13%20at%209.31.06%20PM.png)
+
+Author:
+Nahin Hayat https://www.linkedin.com/in/nahinhayat/
